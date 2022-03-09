@@ -1,0 +1,29 @@
+html {
+  background-color: #7851a9 ;
+}
+
+body{
+  color: #cfb53b;
+  font-family: cursive;
+}
+
+nav{
+  background-color: 	rgb(76,187,23)
+}
+
+aside{
+  background-color: #36454F;
+}
+
+nav, aside{
+  color: darkred;
+}
+
+li>a{
+  text-decoration: none;
+  color: black;
+}
+
+li>a: hover{
+  background-color: black;
+}
