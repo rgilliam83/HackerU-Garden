@@ -15,15 +15,32 @@ aside{
   background-color: #36454F;
 }
 
+h1{
+  box-shadow: #36454F;
+}
+
 nav, aside{
   color: darkred;
 }
 
-li>a{
-  text-decoration: none;
-  color: black;
+nav, aside:hover{
+  color:aqua
 }
 
-li>a: hover{
-  background-color: black;
+li>a{
+  text-decoration: none;
+  color: pink;
 }
+
+li>a:hover{
+ color: black;
+}
+
+li>a:visited {
+  color:cadetblue;
+}
+
+section {
+  border-style:ridge;
+}
+
