@@ -29,7 +29,7 @@ nav, aside:hover{
 
 li>a{
   text-decoration: none;
-  color: pink;
+  color: turquoise;
 }
 
 li>a:hover{
@@ -41,6 +41,6 @@ li>a:visited {
 }
 
 section {
-  border-style:groove;
+  border-style:ridge;
 }
 
